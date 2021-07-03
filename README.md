@@ -1,2 +1,4 @@
 <h1>Lenguajes Utilizados</h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatoBig)](https://github.com/anuraghazra/github-readme-stats)
+<script>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatoBig)](https://github.com/anuraghazra/github-readme-stats)
+</script>
